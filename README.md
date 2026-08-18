@@ -10,7 +10,7 @@
 
 > ⚠️ **UYARI: KULLANMADAN ÖNCE VİDEOYU İZLEYİN**
 >
-> [![Kullanım Videosu](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID/maxresdefault.jpg)](YOUTUBE_LINKI_BURAYA)
+> [![Kullanım Videosu](https://img.youtube.com/vi/7_m6lXTdO58/maxresdefault.jpg)](https://youtu.be/7_m6lXTdO58)
 >
 > *Kurulum ve kullanım adımlarını eksiksiz uygulamak için yukarıdaki görsele tıklayarak rehber videoyu izleyin.*
 
