@@ -180,6 +180,7 @@ Not: Builder'ın hedef client derleyebilmesi için Ilac.Shared klasörünün Ila
 
 🕯️ Kullanılan Teknolojiler
 C# / .NET 9.0 — Yüksek performanslı sistem ve bellek tarama motoru.
+Builder makinesinde .NET 9 SDK kurulu olmalı
 
 Win32 Native API (P/Invoke) — Kernel seviyesi USN Journal, Handles ve Process Modules erişimi.
 
