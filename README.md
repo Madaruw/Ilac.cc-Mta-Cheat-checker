@@ -18,6 +18,8 @@
 
 </div>
 
+<img width="302" height="300" alt="c39d1ab45f2872e0f6140c30eca93e86" src="https://github.com/user-attachments/assets/2cf9599d-e538-4c42-99f4-c28316aa8175" />
+
 <br>
 
 ## 🗡️ Mimari ve Çalışma Mantığı
